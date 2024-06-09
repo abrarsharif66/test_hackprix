@@ -15,12 +15,12 @@ EduTrack is an educational institute management system designed to streamline da
 
 **Installation:**
 1. Ensure you have Python installed.
-2. Clone the repository: `git clone <repository_url>`
-3. Navigate to the project directory: `cd EduTrack`
+2. Clone the repository: `git clone https://github.com/abrarsharif66/test_hackprix`
+3. Navigate to the project directory: `cd test_hackprix`
 4. Install dependencies: `pip install -r requirements.txt`
 
 **Running the Application:**
-- To start the Streamlit app for student data, run: 
+- To start the Streamlit app for student data, run: `streamlit run Student_data.py`
 
 **Directory Structure:**
 - **Student_data.py:** Streamlit app for accessing student information.

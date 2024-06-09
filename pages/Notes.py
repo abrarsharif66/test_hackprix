@@ -2,7 +2,7 @@ import pymysql
 import os
 import pandas
 
-conn = pymysql.Connect(user="root", passwd="tiger", host='localhost', database='edu_institute')
+conn = pymysql.Connect(user="root", passwd="tiger458", host = 'database-1.cjaci8og0a5j.eu-north-1.rds.amazonaws.com', database='edu_institute')
 
 cu = conn.cursor()
 

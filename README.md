@@ -30,11 +30,15 @@ EduTrack is an educational institute management system designed to streamline da
 **Note:** Ensure proper configuration of database connection details for seamless operation of the application.
 
 **Deployment:**
-We have deployed EduTrack on AWS EC2. To access it, visit [EduTrack on AWS EC2](http://your_ec2_instance_ip:8501) in your browser.
+We have deployed EduTrack on AWS EC2. To access it, visit [EduTrack on AWS EC2](http://neueraai.in) in your browser.
 
+**sample testing questions**
+- list the students whose fee due is greater than 2000? (this is for student_data.py)
+-Give me the drive link for me101 subject code?  (for Notes.py)
 **Contributors:**
 - Abrar Sharif
 - Mohammed Abdul Junaid
+
 
 
 **Feedback and Contributions:**
